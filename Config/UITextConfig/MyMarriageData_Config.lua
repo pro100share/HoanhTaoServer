@@ -1,0 +1,11 @@
+﻿--设置component
+AddLocaleLang({
+	MyMarriageData_0=[[[999区]康兴你妹妹啊]];
+	MyMarriageData_1=[[征婚信息：求交往求包养求暖被窝]];
+	MyMarriageData_2=[[职业：]];
+	MyMarriageData_3=[[修改信息]];
+	MyMarriageData_4=[[【999区】康兴你妹妹啊]];
+	MyMarriageData_5=[[你们有999个共同仇人]];
+	MyMarriageData_6=[[征婚信息：求交往求包养求暖被窝]];
+	MyMarriageData_7=[[职业：]];
+});

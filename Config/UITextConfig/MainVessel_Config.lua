@@ -1,0 +1,12 @@
+﻿--设置component
+AddLocaleLang({
+	MainVessel_0=[[一层鼎:]];
+	MainVessel_1=[[二层鼎:]];
+	MainVessel_2=[[三层鼎:]];
+	MainVessel_3=[[四层鼎:]];
+	MainVessel_4=[[五层鼎:]];
+	MainVessel_5=[[六层鼎:]];
+	MainVessel_6=[[七层鼎:]];
+	MainVessel_7=[[八层鼎:]];
+	MainVessel_8=[[九层鼎:]];
+});

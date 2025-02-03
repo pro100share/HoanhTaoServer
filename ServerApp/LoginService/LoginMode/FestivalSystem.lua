@@ -1,0 +1,1 @@
+local dwSystemID = SystemNameToID.CFestivalSystem;local szSql = [[select * from "T_Role_Festival" where "dwRoleID" = %s]];local tbParam = {	{		Param = ParamType.dwRoleID;	};}CLoginMode:AddMode(dwSystemID,szSql,tbParam)

@@ -1,0 +1,16 @@
+﻿--设置component
+AddLocaleLang({
+	GameHelpMain_0=[[摆摊]];
+	GameHelpMain_1=[[1-20级]];
+	GameHelpMain_2=[[20-40级]];
+	GameHelpMain_3=[[40-60级]];
+	GameHelpMain_4=[[20级]];
+	GameHelpMain_5=[[25级]];
+	GameHelpMain_6=[[30级]];
+	GameHelpMain_7=[[35级]];
+	GameHelpMain_8=[[40级]];
+	GameHelpMain_9=[[45级]];
+	GameHelpMain_10=[[50级]];
+	GameHelpMain_11=[[打开礼包]];
+	GameHelpMain_12=[[打开礼包]];
+});

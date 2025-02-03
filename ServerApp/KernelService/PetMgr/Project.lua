@@ -1,0 +1,1 @@
+dofile "KernelService/PetMgr/PetMgr.lua"

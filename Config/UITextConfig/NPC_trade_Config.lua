@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	NPC_trade_0=[[镰]];
+	NPC_trade_1=[[刀]];
+	NPC_trade_2=[[枪]];
+	NPC_trade_3=[[剑]];
+	NPC_trade_4=[[（鼠标单击图标即可买卖物品）]];
+	NPC_trade_5=[[修理]];
+});

@@ -1,0 +1,11 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaMengZhuZhanXiao_0=[[蒙军入侵]];
+	ShiJiaMengZhuZhanXiao_1=[[五行真气：]];
+	ShiJiaMengZhuZhanXiao_2=[[令牌归属：]];
+	ShiJiaMengZhuZhanXiao_3=[[赐福宝箱：]];
+	ShiJiaMengZhuZhanXiao_4=[[蒙军入侵：]];
+	ShiJiaMengZhuZhanXiao_5=[[退出战场]];
+	ShiJiaMengZhuZhanXiao_6=[[盟主战结束时间：]];
+	ShiJiaMengZhuZhanXiao_7=[[摆摊]];
+});

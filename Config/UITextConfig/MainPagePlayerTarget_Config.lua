@@ -1,0 +1,14 @@
+﻿--设置component
+AddLocaleLang({
+	MainPagePlayerTarget_0=[[私聊]];
+	MainPagePlayerTarget_1=[[查看]];
+	MainPagePlayerTarget_2=[[交友]];
+	MainPagePlayerTarget_3=[[交易]];
+	MainPagePlayerTarget_4=[[组队]];
+	MainPagePlayerTarget_5=[[世家邀请]];
+	MainPagePlayerTarget_6=[[看摊]];
+	MainPagePlayerTarget_7=[[团练]];
+	MainPagePlayerTarget_8=[[加入世家]];
+	MainPagePlayerTarget_9=[[成就对比]];
+	MainPagePlayerTarget_10=[[求婚]];
+});

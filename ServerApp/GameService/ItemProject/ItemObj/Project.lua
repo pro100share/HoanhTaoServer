@@ -1,0 +1,5 @@
+﻿dofile "GameService/ItemProject/ItemObj/ItemScript.lua"
+dofile "GameService/ItemProject/ItemObj/GlobalItemManager.lua"
+dofile "GameService/ItemProject/ItemObj/Item.lua"
+dofile "GameService/ItemProject/ItemObj/ItemNormal.lua"
+dofile "GameService/ItemProject/ItemObj/ItemEquip.lua"

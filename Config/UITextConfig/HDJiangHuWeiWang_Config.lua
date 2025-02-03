@@ -1,0 +1,19 @@
+﻿--设置component
+AddLocaleLang({
+	HDJiangHuWeiWang_0=[[BOSS刷新]];
+	HDJiangHuWeiWang_1=[[BOSS刷新]];
+	HDJiangHuWeiWang_2=[[BOSS刷新]];
+	HDJiangHuWeiWang_3=[[攻击]];
+	HDJiangHuWeiWang_4=[[身法]];
+	HDJiangHuWeiWang_5=[[生命]];
+	HDJiangHuWeiWang_6=[[防御]];
+	HDJiangHuWeiWang_7=[[暴击]];
+	HDJiangHuWeiWang_8=[[内力]];
+	HDJiangHuWeiWang_9=[[攻击速度]];
+	HDJiangHuWeiWang_10=[[领取奖励]];
+	HDJiangHuWeiWang_11=[[达成奖励]];
+	HDJiangHuWeiWang_12=[[BOSS刷新]];
+	HDJiangHuWeiWang_13=[[BOSS刷新]];
+	HDJiangHuWeiWang_14=[[BOSS刷新]];
+	HDJiangHuWeiWang_15=[[下级：]];
+});

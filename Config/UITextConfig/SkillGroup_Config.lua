@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	SkillGroup_0=[[开始装订]];
+	SkillGroup_1=[[装订难度：]];
+	SkillGroup_2=[[装订消耗]];
+	SkillGroup_3=[[装订列表]];
+	SkillGroup_4=[[本次操作使用]];
+	SkillGroup_5=[[只显示可装订秘籍]];
+});

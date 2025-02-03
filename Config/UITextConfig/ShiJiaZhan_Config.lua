@@ -1,0 +1,21 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaZhan_0=[[排名]];
+	ShiJiaZhan_1=[[世家名称]];
+	ShiJiaZhan_2=[[奖励]];
+	ShiJiaZhan_3=[[占领龙鼎]];
+	ShiJiaZhan_4=[[排名]];
+	ShiJiaZhan_5=[[玩家名称]];
+	ShiJiaZhan_6=[[击杀数]];
+	ShiJiaZhan_7=[[世家名称]];
+	ShiJiaZhan_8=[[排名]];
+	ShiJiaZhan_9=[[玩家名称]];
+	ShiJiaZhan_10=[[连斩数]];
+	ShiJiaZhan_11=[[世家名称]];
+	ShiJiaZhan_12=[[击杀：]];
+	ShiJiaZhan_13=[[连斩：]];
+	ShiJiaZhan_14=[[经验：]];
+	ShiJiaZhan_15=[[五行真气：]];
+	ShiJiaZhan_16=[[获得奖励：]];
+	ShiJiaZhan_17=[[奖励说明：]];
+});

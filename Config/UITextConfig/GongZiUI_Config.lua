@@ -1,0 +1,12 @@
+﻿--设置component
+AddLocaleLang({
+	GongZiUI_0=[[周一]];
+	GongZiUI_1=[[周二]];
+	GongZiUI_2=[[周三]];
+	GongZiUI_3=[[周四]];
+	GongZiUI_4=[[周五]];
+	GongZiUI_5=[[周六]];
+	GongZiUI_6=[[周日]];
+	GongZiUI_7=[[二月]];
+	GongZiUI_8=[[突破境界]];
+});

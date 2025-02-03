@@ -1,0 +1,33 @@
+﻿--设置component
+AddLocaleLang({
+	newwuxing_0=[[摆摊]];
+	newwuxing_1=[[99级(弱火)]];
+	newwuxing_2=[[当前层数:]];
+	newwuxing_3=[[下级层数:]];
+	newwuxing_4=[[等级：]];
+	newwuxing_5=[[等级：]];
+	newwuxing_6=[[等级：]];
+	newwuxing_7=[[等级：]];
+	newwuxing_8=[[等级：]];
+	newwuxing_9=[[等级:]];
+	newwuxing_10=[[人体五脏各有五行，真气生发于脏器，流转于经脉，归顺于丹田。五行汇极，生生不息，可增益自身属性，提升真气积蓄速度。]];
+	newwuxing_11=[[查看排行]];
+	newwuxing_12=[[五行调和]];
+	newwuxing_13=[[五行为您加成属性]];
+	newwuxing_14=[[攻击提升：]];
+	newwuxing_15=[[防御提升：]];
+	newwuxing_16=[[身法提升：]];
+	newwuxing_17=[[暴击提升：]];
+	newwuxing_18=[[生命提升：]];
+	newwuxing_19=[[内力提升：]];
+	newwuxing_20=[[其他属性]];
+	newwuxing_21=[[成为VIP]];
+	newwuxing_22=[[极致属性]];
+	newwuxing_23=[[当前容量]];
+	newwuxing_24=[[自动购买所需材料]];
+	newwuxing_25=[[12级]];
+	newwuxing_26=[[修炼五行]];
+	newwuxing_27=[[需求真气：]];
+	newwuxing_28=[[本次成功率]];
+	newwuxing_29=[[需求等级]];
+});

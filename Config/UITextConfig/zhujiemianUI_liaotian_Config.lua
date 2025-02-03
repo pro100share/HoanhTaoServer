@@ -1,0 +1,35 @@
+﻿--设置component
+AddLocaleLang({
+	zhujiemianUI_liaotian_0=[[综合]];
+	zhujiemianUI_liaotian_1=[[普通]];
+	zhujiemianUI_liaotian_2=[[表情]];
+	zhujiemianUI_liaotian_3=[[普通]];
+	zhujiemianUI_liaotian_4=[[系统]];
+	zhujiemianUI_liaotian_5=[[队伍]];
+	zhujiemianUI_liaotian_6=[[帮会]];
+	zhujiemianUI_liaotian_7=[[综合]];
+	zhujiemianUI_liaotian_8=[[附近]];
+	zhujiemianUI_liaotian_9=[[帮派]];
+	zhujiemianUI_liaotian_10=[[私聊]];
+	zhujiemianUI_liaotian_11=[[队伍]];
+	zhujiemianUI_liaotian_12=[[世界]];
+	zhujiemianUI_liaotian_13=[[系统]];
+	zhujiemianUI_liaotian_14=[[查看]];
+	zhujiemianUI_liaotian_15=[[查看]];
+	zhujiemianUI_liaotian_16=[[查看]];
+	zhujiemianUI_liaotian_17=[[查看]];
+	zhujiemianUI_liaotian_18=[[查看]];
+	zhujiemianUI_liaotian_19=[[系统]];
+	zhujiemianUI_liaotian_20=[[综合]];
+	zhujiemianUI_liaotian_21=[[附近]];
+	zhujiemianUI_liaotian_22=[[私聊]];
+	zhujiemianUI_liaotian_23=[[队伍]];
+	zhujiemianUI_liaotian_24=[[世家]];
+	zhujiemianUI_liaotian_25=[[世界]];
+	zhujiemianUI_liaotian_26=[[私聊]];
+	zhujiemianUI_liaotian_27=[[队伍]];
+	zhujiemianUI_liaotian_28=[[世家]];
+	zhujiemianUI_liaotian_29=[[世界]];
+	zhujiemianUI_liaotian_30=[[喇叭]];
+	zhujiemianUI_liaotian_31=[[附近]];
+});

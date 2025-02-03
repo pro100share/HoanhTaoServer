@@ -1,0 +1,18 @@
+﻿--设置component
+AddLocaleLang({
+	wuxingadjust_0=[[关]];
+	wuxingadjust_1=[[温馨提示：调和时会损失20%的真气，使用五行调和丹可避免损失真气]];
+	wuxingadjust_2=[[本次操作使用]];
+	wuxingadjust_3=[[使用]];
+	wuxingadjust_4=[[开始调和]];
+	wuxingadjust_5=[[金]];
+	wuxingadjust_6=[[木]];
+	wuxingadjust_7=[[土]];
+	wuxingadjust_8=[[火]];
+	wuxingadjust_9=[[水]];
+	wuxingadjust_10=[[本次操作使用]];
+	wuxingadjust_11=[[本次操作使用]];
+	wuxingadjust_12=[[自动购买所需材料]];
+	wuxingadjust_13=[[优先使用非绑定材料]];
+	wuxingadjust_14=[[元宝：]];
+});

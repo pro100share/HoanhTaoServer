@@ -1,0 +1,12 @@
+﻿--设置component
+AddLocaleLang({
+	LeiXingJieGuo_0=[[2倍]];
+	LeiXingJieGuo_1=[[2倍]];
+	LeiXingJieGuo_2=[[2倍]];
+	LeiXingJieGuo_3=[[2倍]];
+	LeiXingJieGuo_4=[[2倍]];
+	LeiXingJieGuo_5=[[2倍]];
+	LeiXingJieGuo_6=[[请选择您要洗炼的附加属性]];
+	LeiXingJieGuo_7=[[评分:]];
+	LeiXingJieGuo_8=[[基础属性]];
+});

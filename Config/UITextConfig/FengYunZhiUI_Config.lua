@@ -1,0 +1,16 @@
+﻿--设置component
+AddLocaleLang({
+	FengYunZhiUI_0=[[属性总加成]];
+	FengYunZhiUI_1=[[阶段1]];
+	FengYunZhiUI_2=[[阶段1]];
+	FengYunZhiUI_3=[[阶段1]];
+	FengYunZhiUI_4=[[阶段1]];
+	FengYunZhiUI_5=[[阶段1]];
+	FengYunZhiUI_6=[[阶段1]];
+	FengYunZhiUI_7=[[阶段1]];
+	FengYunZhiUI_8=[[阶段1]];
+	FengYunZhiUI_9=[[阶段1]];
+	FengYunZhiUI_10=[[阶段1]];
+	FengYunZhiUI_11=[[阶段1]];
+	FengYunZhiUI_12=[[阶段1]];
+});

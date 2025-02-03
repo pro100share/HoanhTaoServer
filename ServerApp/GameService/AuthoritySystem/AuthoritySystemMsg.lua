@@ -1,0 +1,1 @@
+﻿--[[功能：权限系统消息处理（服务器）版本：v1.0作者：郭肇义时间：2012-03-22]]_define()--客户端请求权限初始化define.AuthorityInitMsg{	user = NONE,}when{user = NONE}AuthorityInitMsg = checkUser;when{}function AuthorityInitMsg(user)	local objSystem = user:GetSystem("CAuthoritySystem");	objSystem:Init();end;

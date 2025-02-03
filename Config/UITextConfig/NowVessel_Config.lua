@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	NowVessel_0=[[世家升级2级，成员15人云云，每日奖励经验5000，礼包500个]];
+	NowVessel_1=[[龙图腾属性：]];
+	NowVessel_2=[[龙图腾阶数：]];
+	NowVessel_3=[[升级结果]];
+	NowVessel_4=[[关]];
+	NowVessel_5=[[进阶龙图腾]];
+});

@@ -1,0 +1,1 @@
+local dwSystemID = SystemNameToID.CErrantHonorSystem;local tbParam = {	{		Param = ParamType.dwRoleID;	};}local szSql1 = [[select "dwErrantLevel", "dwErrantStar", "dwErrantValue" from "T_Errant_Honor_Info" where "dwRoleId" = %s]];CLoginMode:AddMode(dwSystemID,szSql1,tbParam,1)

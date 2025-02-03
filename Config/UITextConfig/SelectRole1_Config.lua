@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	SelectRole1_0=[[距离销毁时间XXX秒]];
+	SelectRole1_1=[[删除角色]];
+	SelectRole1_2=[[创建人物]];
+	SelectRole1_3=[[销毁角色]];
+	SelectRole1_4=[[进入游戏]];
+	SelectRole1_5=[[创建人物]];
+	SelectRole1_6=[[返回]];
+});

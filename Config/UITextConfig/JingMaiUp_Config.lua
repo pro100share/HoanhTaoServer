@@ -1,0 +1,12 @@
+﻿--设置component
+AddLocaleLang({
+	JingMaiUp_0=[[摆摊]];
+	JingMaiUp_1=[[能调节十二经气血，故称“血海”]];
+	JingMaiUp_2=[[您即将打通经脉]];
+	JingMaiUp_3=[[本穴位冲通后获得]];
+	JingMaiUp_4=[[冲脉成功率：]];
+	JingMaiUp_5=[[本次操作使用]];
+	JingMaiUp_6=[[个益元丹]];
+	JingMaiUp_7=[[本次使用]];
+	JingMaiUp_8=[[运气冲脉]];
+});

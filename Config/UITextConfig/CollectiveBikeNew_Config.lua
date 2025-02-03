@@ -1,0 +1,16 @@
+﻿--设置component
+AddLocaleLang({
+	CollectiveBikeNew_0=[[镖车选择：]];
+	CollectiveBikeNew_1=[[镖车升级]];
+	CollectiveBikeNew_2=[[返回]];
+	CollectiveBikeNew_3=[[发起押镖]];
+	CollectiveBikeNew_4=[[奖励领取]];
+	CollectiveBikeNew_5=[[奖励查看]];
+	CollectiveBikeNew_6=[[规则明细]];
+	CollectiveBikeNew_7=[[线路一览]];
+	CollectiveBikeNew_8=[[奖励领取]];
+	CollectiveBikeNew_9=[[奖励查看]];
+	CollectiveBikeNew_10=[[规则明细]];
+	CollectiveBikeNew_11=[[线路一览]];
+	CollectiveBikeNew_12=[[发起押镖]];
+});

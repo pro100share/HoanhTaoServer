@@ -1,0 +1,15 @@
+﻿--设置component
+AddLocaleLang({
+	sysChatTips_0=[[摆摊]];
+	sysChatTips_1=[[加入世家]];
+	sysChatTips_2=[[世家邀请]];
+	sysChatTips_3=[[成就对比]];
+	sysChatTips_4=[[私聊]];
+	sysChatTips_5=[[查看]];
+	sysChatTips_6=[[交友]];
+	sysChatTips_7=[[交易]];
+	sysChatTips_8=[[组队]];
+	sysChatTips_9=[[看摊]];
+	sysChatTips_10=[[团练]];
+	sysChatTips_11=[[求婚]];
+});

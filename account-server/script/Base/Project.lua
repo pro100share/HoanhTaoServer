@@ -1,0 +1,14 @@
+dofile(AccountService.strScriptDir .. "Base/Log.lua");
+dofile(AccountService.strScriptDir .. "Base/Error.lua");
+dofile(AccountService.strScriptDir .. "Base/Base.lua");
+dofile(AccountService.strScriptDir .. "Base/Json.lua");
+dofile(AccountService.strScriptDir .. "Base/DB.lua");
+dofile(AccountService.strScriptDir .. "Base/HttpParse.lua");
+dofile(AccountService.strScriptDir .. "Base/GetRoleID.lua");
+dofile(AccountService.strScriptDir .. "Base/TableToString.lua");
+dofile(AccountService.strScriptDir .. "Base/AddPaging.lua");
+dofile(AccountService.strScriptDir .. "Base/AddFind.lua");
+dofile(AccountService.strScriptDir .. "Base/ShareDB.lua");
+dofile(AccountService.strScriptDir .. "Base/Net.lua");
+dofile(AccountService.strScriptDir .. "Base/Task.lua");
+dofile(AccountService.strScriptDir .. "Base/Merge.lua");

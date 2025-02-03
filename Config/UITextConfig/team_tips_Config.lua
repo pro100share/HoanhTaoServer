@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	team_tips_0=[[查看]];
+	team_tips_1=[[交友]];
+	team_tips_2=[[交易]];
+	team_tips_3=[[看摊]];
+	team_tips_4=[[帮邀]];
+	team_tips_5=[[拉黑]];
+	team_tips_6=[[私聊]];
+});

@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	BuildCollective_0=[[世家名称]];
+	BuildCollective_1=[[人物等级：]];
+	BuildCollective_2=[[25级]];
+	BuildCollective_3=[[消耗银两：]];
+	BuildCollective_4=[[创建世家]];
+	BuildCollective_5=[[摆摊]];
+});

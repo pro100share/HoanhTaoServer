@@ -1,0 +1,11 @@
+﻿--设置component
+AddLocaleLang({
+	PinZhiJieGuo_0=[[新附加属性]];
+	PinZhiJieGuo_1=[[新附加属性]];
+	PinZhiJieGuo_2=[[保留原属性(5)]];
+	PinZhiJieGuo_3=[[使用新属性(5)]];
+	PinZhiJieGuo_4=[[华刀剑]];
+	PinZhiJieGuo_5=[[强化失败会降至10星]];
+	PinZhiJieGuo_6=[[评分:]];
+	PinZhiJieGuo_7=[[基础属性]];
+});

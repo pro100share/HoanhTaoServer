@@ -1,0 +1,32 @@
+﻿--设置component
+AddLocaleLang({
+	guaji_gaoji_0=[[%时自动]];
+	guaji_gaoji_1=[[当生命低于]];
+	guaji_gaoji_2=[[吃药]];
+	guaji_gaoji_3=[[当内力低于]];
+	guaji_gaoji_4=[[%时自动]];
+	guaji_gaoji_5=[[吃药]];
+	guaji_gaoji_6=[[拾取]];
+	guaji_gaoji_7=[[装备]];
+	guaji_gaoji_8=[[拾取药品]];
+	guaji_gaoji_9=[[挂机范围]];
+	guaji_gaoji_10=[[当人物双倍经验丹过期后，自动使用]];
+	guaji_gaoji_11=[[人物死亡后，自动使用原地复活道具]];
+	guaji_gaoji_12=[[自动挂机时,不主动攻击部分怪物(如飞贼、石像等)]];
+	guaji_gaoji_13=[[拾取银两]];
+	guaji_gaoji_14=[[拾取材料]];
+	guaji_gaoji_15=[[人物自动使用以下招式攻击怪物]];
+	guaji_gaoji_16=[[挂机时间]];
+	guaji_gaoji_17=[[开始挂机]];
+	guaji_gaoji_18=[[默认设置]];
+	guaji_gaoji_19=[[寻找附近]];
+	guaji_gaoji_20=[[米的怪物]];
+	guaji_gaoji_21=[[挂机超过]];
+	guaji_gaoji_22=[[分钟后，自动回城演武]];
+	guaji_gaoji_23=[[开始挂机快捷键：H ]];
+	guaji_gaoji_24=[[保存设置]];
+	guaji_gaoji_25=[[持续受到攻击时，自动进入挂机状态]];
+	guaji_gaoji_26=[[开启自动熔炼]];
+	guaji_gaoji_27=[[（VIP专享）]];
+	guaji_gaoji_28=[[自动拾取快捷键：Z]];
+});

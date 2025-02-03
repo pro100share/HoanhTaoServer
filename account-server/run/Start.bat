@@ -1,0 +1,1 @@
+start "AccountServer" ../bin/fancy-server.exe as 1

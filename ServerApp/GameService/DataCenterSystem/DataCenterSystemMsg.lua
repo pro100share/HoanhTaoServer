@@ -1,0 +1,1 @@
+﻿--[[功能：数据系统消息处理（服务器）版本：v1.0作者：郭肇义时间：2012-04-05]]_define()--客户端初始化数据define.InitDataCenterMsg{	user = NONE,}when{user = NONE}InitDataCenterMsg = checkUser;when{}function InitDataCenterMsg(user)	local objSystem = user:GetSystem('CDataCenterSystem')	user.OnInitDataCenterMsg { Data = objSystem:GetData() }end;

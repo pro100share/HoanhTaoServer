@@ -1,0 +1,1 @@
+_dofile (ClientConfigPath .. "Config/OnlineAwards/OnlineAwardsConfig.lua")

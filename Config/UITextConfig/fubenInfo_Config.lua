@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	fubenInfo_0=[[积分排名]];
+	fubenInfo_1=[[副本信息]];
+	fubenInfo_2=[[物资车：]];
+	fubenInfo_3=[[木罐子]];
+	fubenInfo_4=[[金国将领：]];
+	fubenInfo_5=[[绝技：]];
+});

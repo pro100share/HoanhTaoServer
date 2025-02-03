@@ -1,0 +1,11 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaZhanNew1_0=[[经验：]];
+	ShiJiaZhanNew1_1=[[五行真气：]];
+	ShiJiaZhanNew1_2=[[杀]];
+	ShiJiaZhanNew1_3=[[斩]];
+	ShiJiaZhanNew1_4=[[击杀:]];
+	ShiJiaZhanNew1_5=[[连斩:]];
+	ShiJiaZhanNew1_6=[[退出战场]];
+	ShiJiaZhanNew1_7=[[结束时间：]];
+});

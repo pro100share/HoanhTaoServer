@@ -1,0 +1,31 @@
+﻿--设置component
+AddLocaleLang({
+	JingJieMain_0=[[降龙十八掌：]];
+	JingJieMain_1=[[消耗元宝：]];
+	JingJieMain_2=[[2倍]];
+	JingJieMain_3=[[消耗礼金：]];
+	JingJieMain_4=[[2倍]];
+	JingJieMain_5=[[摆摊]];
+	JingJieMain_6=[[当前境界：]];
+	JingJieMain_7=[[下一境界：]];
+	JingJieMain_8=[[摆摊]];
+	JingJieMain_9=[[参阅武尊残章，可突破自身实战境界。进入大破金营副本有几率掉落此物品]];
+	JingJieMain_10=[[突破境界]];
+	JingJieMain_11=[[天官赐福：]];
+	JingJieMain_12=[[成功率：]];
+	JingJieMain_13=[[天官赐福满了必定成功！]];
+	JingJieMain_14=[[本次操作使用]];
+	JingJieMain_15=[[自动购买所需材料]];
+	JingJieMain_16=[[突破]];
+	JingJieMain_17=[[生命上限：]];
+	JingJieMain_18=[[攻　　击：]];
+	JingJieMain_19=[[额外闪避：]];
+	JingJieMain_20=[[攻击速度：]];
+	JingJieMain_21=[[武功层数：]];
+	JingJieMain_22=[[内力上限：]];
+	JingJieMain_23=[[防　　御：]];
+	JingJieMain_24=[[暴击伤害：]];
+	JingJieMain_25=[[移动速度：]];
+	JingJieMain_26=[[降龙十八掌：]];
+	JingJieMain_27=[[使用对应境界的<font color='#A020F0'>武尊断篇</font>是唯一获得实战经验的方式，打怪可获得道具]];
+});

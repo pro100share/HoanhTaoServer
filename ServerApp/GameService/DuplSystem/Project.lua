@@ -1,0 +1,6 @@
+﻿dofile 'GameService/DuplSystem/DuplSystem.lua' 
+dofile 'GameService/DuplSystem/DuplSystemMsg.lua'
+dofile 'GameService/DuplSystem/Dupl.lua' 
+dofile 'GameService/DuplSystem/DuplManager.lua' 
+dofile 'GameService/DuplSystem/DuplSystemDB.lua' 
+dofile 'GameService/DuplSystem/GutDuplManager.lua' 

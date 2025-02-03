@@ -1,0 +1,6 @@
+﻿dofile "../Config/BuffSystemConfig/BuffBasicConfig.lua"
+dofile "../Config/BuffSystemConfig/BuffScript.lua"
+dofile "../Config/BuffSystemConfig/BuffStringConfig.lua"
+dofile "../Config/BuffSystemConfig/ComBuffConfig.lua"
+dofile "../Config/BuffSystemConfig/BuffScriptExtend.lua"
+dofile "../Config/BuffSystemConfig/BuffScriptExtendAgain.lua"

@@ -1,0 +1,6 @@
+﻿dofile 'GameService/DuGuSystem/Message.lua'
+dofile 'GameService/DuGuSystem/LifeCycle.lua'
+dofile 'GameService/DuGuSystem/BaseFunction.lua'
+dofile 'GameService/DuGuSystem/Interface.lua'
+dofile 'GameService/DuGuSystem/Responde.lua'
+dofile 'GameService/DuGuSystem/DBManager.lua'

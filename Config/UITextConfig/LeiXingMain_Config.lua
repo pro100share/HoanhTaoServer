@@ -1,0 +1,18 @@
+﻿--设置component
+AddLocaleLang({
+	LeiXingMain_0=[[开始洗炼]];
+	LeiXingMain_1=[[自动洗炼]];
+	LeiXingMain_2=[[本次操作使用]];
+	LeiXingMain_3=[[本次操作使用]];
+	LeiXingMain_4=[[个幸运珠]];
+	LeiXingMain_5=[[(可提升强化成功率)]];
+	LeiXingMain_6=[[成功率：]];
+	LeiXingMain_7=[[一般]];
+	LeiXingMain_8=[[消耗材料:]];
+	LeiXingMain_9=[[神龙果]];
+	LeiXingMain_10=[[消耗材料:]];
+	LeiXingMain_11=[[摆摊]];
+	LeiXingMain_12=[[开始自动洗炼]];
+	LeiXingMain_13=[[为我自动洗炼至]];
+	LeiXingMain_14=[[VIP特权(开通VIP自动洗炼)]];
+});

@@ -1,0 +1,6 @@
+﻿dofile 'GameService/SwordSystem/Sword.lua'
+dofile 'GameService/SwordSystem/SwordSystem.lua'
+dofile 'GameService/SwordSystem/SwordSystemDB.lua'
+dofile 'GameService/SwordSystem/SwordSystemMsg.lua'
+dofile 'GameService/SwordSystem/SwordPropertyCard.lua'
+dofile 'GameService/SwordSystem/SwordFoundry/Project.lua'

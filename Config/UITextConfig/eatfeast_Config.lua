@@ -1,0 +1,19 @@
+﻿--设置component
+AddLocaleLang({
+	eatfeast_0=[[摆摊]];
+	eatfeast_1=[[婚宴类型：]];
+	eatfeast_2=[[平民]];
+	eatfeast_3=[[本席最多可供100人食用]];
+	eatfeast_4=[[本席最多可供100人食用]];
+	eatfeast_5=[[您每天最多可以食用酒席1000次]];
+	eatfeast_6=[[食用本席可获得:]];
+	eatfeast_7=[[经验：]];
+	eatfeast_8=[[金]];
+	eatfeast_9=[[木]];
+	eatfeast_10=[[水]];
+	eatfeast_11=[[火]];
+	eatfeast_12=[[土]];
+	eatfeast_13=[[五行真气：]];
+	eatfeast_14=[[立即食用]];
+	eatfeast_15=[[您每天最多可以食用酒席1000次]];
+});

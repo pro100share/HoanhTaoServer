@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	beibao_kuozhan_0=[[确定]];
+	beibao_kuozhan_1=[[取消]];
+	beibao_kuozhan_2=[[激活背包XX需要在背包中有10个扩展符]];
+	beibao_kuozhan_3=[[请问您要激活背包XX吗？]];
+	beibao_kuozhan_4=[[扩展符]];
+	beibao_kuozhan_5=[[获得途径：]];
+	beibao_kuozhan_6=[[激活后您将获得额外6个物品存储格。]];
+});

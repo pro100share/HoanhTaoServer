@@ -1,0 +1,5 @@
+#!/bin/bash
+# stop hstx script
+
+pgrep run | xargs kill -s 9
+pgrep fancy-server | xargs kill -s 9

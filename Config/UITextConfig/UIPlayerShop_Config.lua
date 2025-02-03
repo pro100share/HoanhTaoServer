@@ -1,0 +1,14 @@
+﻿--设置component
+AddLocaleLang({
+	UIPlayerShop_0=[[右键单击背包物品上架]];
+	UIPlayerShop_1=[[上架银两：]];
+	UIPlayerShop_2=[[售价：]];
+	UIPlayerShop_3=[[上架元宝：]];
+	UIPlayerShop_4=[[点这卖元宝]];
+	UIPlayerShop_5=[[售价：]];
+	UIPlayerShop_6=[[点这卖银两]];
+	UIPlayerShop_7=[[改名]];
+	UIPlayerShop_8=[[摊位名称：]];
+	UIPlayerShop_9=[[发布摊位]];
+	UIPlayerShop_10=[[出售记录]];
+});

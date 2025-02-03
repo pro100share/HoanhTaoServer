@@ -1,0 +1,14 @@
+﻿--设置component
+AddLocaleLang({
+	team_liebiao_0=[[张逸尘]];
+	team_liebiao_1=[[私聊]];
+	team_liebiao_2=[[查看]];
+	team_liebiao_3=[[交友]];
+	team_liebiao_4=[[交易]];
+	team_liebiao_5=[[世家邀请]];
+	team_liebiao_6=[[看摊]];
+	team_liebiao_7=[[团练]];
+	team_liebiao_8=[[加入世家]];
+	team_liebiao_9=[[成就对比]];
+	team_liebiao_10=[[求婚]];
+});

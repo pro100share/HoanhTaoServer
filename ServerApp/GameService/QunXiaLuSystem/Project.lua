@@ -1,0 +1,6 @@
+﻿dofile 'GameService/QunXiaLuSystem/QunXiaLuSystemMsg.lua'
+dofile 'GameService/QunXiaLuSystem/QunXiaLuSystem.lua'
+dofile 'GameService/QunXiaLuSystem/QunXiaLuSystemDB.lua'
+dofile 'GameService/QunXiaLuSystem/QunXiaLuGroup.lua'
+dofile 'GameService/QunXiaLuSystem/QunXiaLuDaXia.lua'
+dofile 'GameService/QunXiaLuSystem/QunXiaLuFuse.lua'

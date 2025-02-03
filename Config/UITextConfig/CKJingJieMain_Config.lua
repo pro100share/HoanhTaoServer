@@ -1,0 +1,30 @@
+﻿--设置component
+AddLocaleLang({
+	CKJingJieMain_0=[[降龙十八掌：]];
+	CKJingJieMain_1=[[消耗元宝：]];
+	CKJingJieMain_2=[[2倍]];
+	CKJingJieMain_3=[[消耗礼金：]];
+	CKJingJieMain_4=[[2倍]];
+	CKJingJieMain_5=[[摆摊]];
+	CKJingJieMain_6=[[当前境界：]];
+	CKJingJieMain_7=[[下一境界：]];
+	CKJingJieMain_8=[[摆摊]];
+	CKJingJieMain_9=[[参阅武尊残章，可突破自身实战境界。进入大破金营副本有几率掉落此物品]];
+	CKJingJieMain_10=[[突破境界]];
+	CKJingJieMain_11=[[天官赐福：]];
+	CKJingJieMain_12=[[成功率：]];
+	CKJingJieMain_13=[[天官赐福必定成功]];
+	CKJingJieMain_14=[[本次操作使用]];
+	CKJingJieMain_15=[[自动购买所需材料]];
+	CKJingJieMain_16=[[突破]];
+	CKJingJieMain_17=[[生命上限：]];
+	CKJingJieMain_18=[[攻　　击：]];
+	CKJingJieMain_19=[[额外闪避：]];
+	CKJingJieMain_20=[[攻击速度：]];
+	CKJingJieMain_21=[[武功层数：]];
+	CKJingJieMain_22=[[内力上限：]];
+	CKJingJieMain_23=[[防　　御：]];
+	CKJingJieMain_24=[[暴击伤害：]];
+	CKJingJieMain_25=[[移动速度：]];
+	CKJingJieMain_26=[[降龙十八掌：]];
+});

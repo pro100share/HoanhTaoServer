@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	QiangHuaJieGuo_0=[[强化失败会降至10星]];
+	QiangHuaJieGuo_1=[[评分:]];
+	QiangHuaJieGuo_2=[[未上榜]];
+	QiangHuaJieGuo_3=[[基础属性]];
+	QiangHuaJieGuo_4=[[附加属性]];
+	QiangHuaJieGuo_5=[[强化成功预览]];
+});

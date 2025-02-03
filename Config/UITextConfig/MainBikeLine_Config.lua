@@ -1,0 +1,13 @@
+﻿--设置component
+AddLocaleLang({
+	MainBikeLine_0=[[起始:]];
+	MainBikeLine_1=[[终点:]];
+	MainBikeLine_2=[[生命:]];
+	MainBikeLine_3=[[位置:]];
+	MainBikeLine_4=[[护送人员才能有奖励]];
+	MainBikeLine_5=[[路线：]];
+	MainBikeLine_6=[[镖车状态：]];
+	MainBikeLine_7=[[镖车状态：]];
+	MainBikeLine_8=[[镖车状态：]];
+	MainBikeLine_9=[[完成奖励：]];
+});

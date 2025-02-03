@@ -1,0 +1,24 @@
+﻿--设置component
+AddLocaleLang({
+	hushenbaojia_shengjie_0=[[关]];
+	hushenbaojia_shengjie_1=[[升阶玄晶]];
+	hushenbaojia_shengjie_2=[[材料：]];
+	hushenbaojia_shengjie_3=[[容易]];
+	hushenbaojia_shengjie_4=[[银两：]];
+	hushenbaojia_shengjie_5=[[天官赐福值越高，升阶越容易]];
+	hushenbaojia_shengjie_6=[[宝甲升阶]];
+	hushenbaojia_shengjie_7=[[成功率：]];
+	hushenbaojia_shengjie_8=[[宝甲升阶]];
+	hushenbaojia_shengjie_9=[[软猬甲]];
+	hushenbaojia_shengjie_10=[[金缕玉衣]];
+	hushenbaojia_shengjie_11=[[本次操作使用]];
+	hushenbaojia_shengjie_12=[[本次操作使用]];
+	hushenbaojia_shengjie_13=[[自动购买所需材料]];
+	hushenbaojia_shengjie_14=[[优先使用非绑定材料]];
+	hushenbaojia_shengjie_15=[[元宝：]];
+	hushenbaojia_shengjie_16=[[消耗材料]];
+	hushenbaojia_shengjie_17=[[关]];
+	hushenbaojia_shengjie_18=[[礼金：]];
+	hushenbaojia_shengjie_19=[[2倍]];
+	hushenbaojia_shengjie_20=[[2倍]];
+});

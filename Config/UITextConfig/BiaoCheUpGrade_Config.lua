@@ -1,0 +1,18 @@
+﻿--设置component
+AddLocaleLang({
+	BiaoCheUpGrade_0=[[升级条件：]];
+	BiaoCheUpGrade_1=[[图腾等级:]];
+	BiaoCheUpGrade_2=[[升级镖车]];
+	BiaoCheUpGrade_3=[[需要资金:]];
+	BiaoCheUpGrade_4=[[镖车生命:]];
+	BiaoCheUpGrade_5=[[属性提升：]];
+	BiaoCheUpGrade_6=[[奖励提升(每个报名成员)：]];
+	BiaoCheUpGrade_7=[[镖车速度:]];
+	BiaoCheUpGrade_8=[[家主发起:]];
+	BiaoCheUpGrade_9=[[发起消耗:]];
+	BiaoCheUpGrade_10=[[经验奖励:]];
+	BiaoCheUpGrade_11=[[银两奖励:]];
+	BiaoCheUpGrade_12=[[真气奖励:]];
+	BiaoCheUpGrade_13=[[礼金奖励:]];
+	BiaoCheUpGrade_14=[[世家贡献:]];
+});

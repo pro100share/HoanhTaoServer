@@ -1,0 +1,5 @@
+﻿dofile 'GameService/BuffSystem/BuffSystem.lua'
+dofile 'GameService/BuffSystem/BuffSystemMsg.lua'
+dofile 'GameService/BuffSystem/Buff.lua'
+dofile 'GameService/BuffSystem/BuffSystemDB.lua'
+dofile 'GameService/BuffSystem/BuffPort.lua'

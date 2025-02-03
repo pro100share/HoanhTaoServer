@@ -1,0 +1,17 @@
+﻿--设置component
+AddLocaleLang({
+	PinZhiMain_0=[[开始洗炼]];
+	PinZhiMain_1=[[自动洗炼]];
+	PinZhiMain_2=[[成功率：]];
+	PinZhiMain_3=[[必成]];
+	PinZhiMain_4=[[本次操作使用]];
+	PinZhiMain_5=[[本次操作使用]];
+	PinZhiMain_6=[[(可提升强化成功率)]];
+	PinZhiMain_7=[[消耗材料:]];
+	PinZhiMain_8=[[神龙果]];
+	PinZhiMain_9=[[消耗材料:]];
+	PinZhiMain_10=[[摆摊]];
+	PinZhiMain_11=[[开始自动洗炼]];
+	PinZhiMain_12=[[为我自动洗炼至]];
+	PinZhiMain_13=[[VIP特权(开通VIP自动洗炼)]];
+});

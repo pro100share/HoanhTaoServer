@@ -1,0 +1,16 @@
+﻿--设置component
+AddLocaleLang({
+	MainBaoJia_0=[[排名：]];
+	MainBaoJia_1=[[等级：]];
+	MainBaoJia_2=[[宝甲熔炼]];
+	MainBaoJia_3=[[攻击]];
+	MainBaoJia_4=[[防御]];
+	MainBaoJia_5=[[身法]];
+	MainBaoJia_6=[[生命]];
+	MainBaoJia_7=[[基础属性]];
+	MainBaoJia_8=[[熔炼属性]];
+	MainBaoJia_9=[[特殊能力]];
+	MainBaoJia_10=[[宝甲榜]];
+	MainBaoJia_11=[[软猬甲]];
+	MainBaoJia_12=[[金缕玉衣]];
+});

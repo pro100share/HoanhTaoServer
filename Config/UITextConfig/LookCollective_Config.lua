@@ -1,0 +1,16 @@
+﻿--设置component
+AddLocaleLang({
+	LookCollective_0=[[摆摊]];
+	LookCollective_1=[[世家活跃：]];
+	LookCollective_2=[[世家名称：]];
+	LookCollective_3=[[8级]];
+	LookCollective_4=[[创建日期：]];
+	LookCollective_5=[[8级]];
+	LookCollective_6=[[家主名称：]];
+	LookCollective_7=[[8级]];
+	LookCollective_8=[[成员人数：]];
+	LookCollective_9=[[8级]];
+	LookCollective_10=[[世家等级：]];
+	LookCollective_11=[[世家排名：]];
+	LookCollective_12=[[申请加入]];
+});

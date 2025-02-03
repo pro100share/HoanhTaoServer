@@ -1,0 +1,271 @@
+﻿--单个npc对话:npc_10021015.lua
+local npc_id=10021015
+local talk=
+{
+ [1]=
+ {
+  [1]={tp=tk.text,text=1002101511,},
+  [2]={tp=tk.accept_check,id={2118,2119,2120,2121,2122,6057,6058,2134,2135,2136,2137},},
+  [3]={tp=tk.complete_check,id={2118,2119,2120,2121,2122,6056,6057,2134,2135,2136,2137},},
+  [8]={tp=tk.close,text=1,},
+ },
+--task 2118 accept_talk
+ [7]=
+ {
+  [1]={tp=tk.text,text=211821,},
+  [2]={tp=tk.page,id=8,text=211822,},
+ },
+ [8]=
+ {
+  [1]={tp=tk.text,text=211823,},
+  [2]={tp=tk.page,id=9,text=211824,},
+ },
+ [9]=
+ {
+  [1]={tp=tk.text,text=211825,},
+  [2]={tp=tk.page,id=10,text=211826,},
+ },
+ [10]=
+ {
+  [1]={tp=tk.text,text=211827,},
+  [2]={tp=tk.page,id=11,text=211828,},
+ },
+ [11]=
+ {
+  [1]={tp=tk.text,text=211829,},
+  [2]={tp=tk.page,id=12,text=211830,},
+ },
+ [12]=
+ {
+  [1]={tp=tk.text,text=211841,},
+  [2]={tp=tk.accept_task,id=2118,text=211842,},
+ },
+--task 2118 complete_talk
+ [13]=
+ {
+  [1]={tp=tk.text,text=211831,},
+  [2]={tp=tk.page,id=14,text=211832,},
+ },
+ [14]=
+ {
+  [1]={tp=tk.text,text=211833,},
+  [2]={tp=tk.complete_task,id=2118,text=211834,},
+ },
+--task 2119 accept_talk
+ [15]=
+ {
+  [1]={tp=tk.text,text=211921,},
+  [2]={tp=tk.page,id=16,text=211922,},
+ },
+ [16]=
+ {
+  [1]={tp=tk.text,text=211923,},
+  [2]={tp=tk.page,id=17,text=211924,},
+ },
+ [17]=
+ {
+  [1]={tp=tk.text,text=211925,},
+  [2]={tp=tk.accept_task,id=2119,text=211926,},
+ },
+--task 2119 complete_talk
+ [18]=
+ {
+  [1]={tp=tk.text,text=211931,},
+  [2]={tp=tk.complete_task,id=2119,text=211932,},
+ },
+--task 2120 accept_talk
+ [19]=
+ {
+  [1]={tp=tk.text,text=212021,},
+  [2]={tp=tk.page,id=20,text=212022,},
+ },
+ [20]=
+ {
+  [1]={tp=tk.text,text=212023,},
+  [2]={tp=tk.page,id=21,text=212024,},
+ },
+ [21]=
+ {
+  [1]={tp=tk.text,text=212025,},
+  [2]={tp=tk.page,id=22,text=212026,},
+ },
+ [22]=
+ {
+  [1]={tp=tk.text,text=212027,},
+  [2]={tp=tk.accept_task,id=2120,text=212028,},
+ },
+--task 2120 complete_talk
+ [23]=
+ {
+  [1]={tp=tk.text,text=212031,},
+  [2]={tp=tk.complete_task,id=2120,text=212032,},
+ },
+--task 2121 accept_talk
+ [24]=
+ {
+  [1]={tp=tk.text,text=212121,},
+  [2]={tp=tk.page,id=25,text=212122,},
+ },
+ [25]=
+ {
+  [1]={tp=tk.text,text=212123,},
+  [2]={tp=tk.page,id=26,text=212124,},
+ },
+ [26]=
+ {
+  [1]={tp=tk.text,text=212125,},
+  [2]={tp=tk.accept_task,id=2121,text=212126,},
+ },
+--task 2121 complete_talk
+ [27]=
+ {
+  [1]={tp=tk.text,text=212131,},
+  [2]={tp=tk.complete_task,id=2121,text=212132,},
+ },
+--task 2122 accept_talk
+ [28]=
+ {
+  [1]={tp=tk.text,text=212221,},
+  [2]={tp=tk.page,id=29,text=212222,},
+ },
+ [29]=
+ {
+  [1]={tp=tk.text,text=212223,},
+  [2]={tp=tk.accept_task,id=2122,text=212224,},
+ },
+--task 2122 complete_talk
+ [30]=
+ {
+  [1]={tp=tk.text,text=212231,},
+  [2]={tp=tk.complete_task,id=2122,text=212232,},
+ },
+--task 6056 complete_talk
+ [31]=
+ {
+  [1]={tp=tk.text,text=605631,},
+  [2]={tp=tk.complete_task,id=6056,text=605632,},
+ },
+--task 6057 accept_talk
+ [32]=
+ {
+  [1]={tp=tk.text,text=605721,},
+  [2]={tp=tk.page,id=33,text=605722,},
+ },
+ [33]=
+ {
+  [1]={tp=tk.text,text=605723,},
+  [2]={tp=tk.page,id=34,text=605724,},
+ },
+ [34]=
+ {
+  [1]={tp=tk.text,text=605725,},
+  [2]={tp=tk.accept_task,id=6057,text=605726,},
+ },
+--task 6057 complete_talk
+ [35]=
+ {
+  [1]={tp=tk.text,text=605731,},
+  [2]={tp=tk.complete_task,id=6057,text=605732,},
+ },
+--task 6058 accept_talk
+ [36]=
+ {
+  [1]={tp=tk.text,text=605821,},
+  [2]={tp=tk.page,id=37,text=605822,},
+ },
+ [37]=
+ {
+  [1]={tp=tk.text,text=605823,},
+  [2]={tp=tk.accept_task,id=6058,text=605824,},
+ },
+--task 2134 accept_talk
+ [38]=
+ {
+  [1]={tp=tk.text,text=213421,},
+  [2]={tp=tk.page,id=39,text=213422,},
+ },
+ [39]=
+ {
+  [1]={tp=tk.text,text=213423,},
+  [2]={tp=tk.page,id=40,text=213424,},
+ },
+ [40]=
+ {
+  [1]={tp=tk.text,text=213425,},
+  [2]={tp=tk.accept_task,id=2134,text=213426,},
+ },
+--task 2134 complete_talk
+ [41]=
+ {
+  [1]={tp=tk.text,text=213431,},
+  [2]={tp=tk.complete_task,id=2134,text=213432,},
+ },
+--task 2135 accept_talk
+ [42]=
+ {
+  [1]={tp=tk.text,text=213521,},
+  [2]={tp=tk.page,id=43,text=213522,},
+ },
+ [43]=
+ {
+  [1]={tp=tk.text,text=213523,},
+  [2]={tp=tk.accept_task,id=2135,text=213524,},
+ },
+--task 2135 complete_talk
+ [44]=
+ {
+  [1]={tp=tk.text,text=213531,},
+  [2]={tp=tk.complete_task,id=2135,text=213532,},
+ },
+--task 2136 accept_talk 
+ [45]=
+ {
+  [1]={tp=tk.text,text=213621,},
+  [2]={tp=tk.page,id=46,text=213622,},
+ },
+ [46]=
+ {
+  [1]={tp=tk.text,text=213623,},
+  [2]={tp=tk.page,id=47,text=213624,},
+ },
+ [47]=
+ {
+  [1]={tp=tk.text,text=213625,},
+  [2]={tp=tk.accept_task,id=2136,text=213626,},
+ },
+--task 2136 complete_talk
+ [48]=
+ {
+  [1]={tp=tk.text,text=213631,},
+  [2]={tp=tk.complete_task,id=2136,text=213632,},
+ },
+--task 2137 accept_talk
+ [49]=
+ {
+  [1]={tp=tk.text,text=213721,},
+  [2]={tp=tk.page,id=50,text=213722,},
+ },
+ [50]=
+ {
+  [1]={tp=tk.text,text=213723,},
+  [2]={tp=tk.page,id=51,text=213724,},
+ },
+ [51]=
+ {
+  [1]={tp=tk.text,text=213725,},
+  [2]={tp=tk.accept_task,id=2137,text=213726,},
+ },
+--task 2137 complete_talk
+ [52]=
+ {
+  [1]={tp=tk.text,text=213731,},
+  [2]={tp=tk.complete_task,id=2137,text=213732,},
+ },
+}
+CScriptManager:AddScript(ScriptTypeConfig.NpcTalk,npc_id,talk)
+--文件结束
+--[[
+说明：
+talk[1] : npc对话的入口，每次点击npc，弹出的都是这个对话
+			每个npc都有talk[1],其余可有可无;
+--]]

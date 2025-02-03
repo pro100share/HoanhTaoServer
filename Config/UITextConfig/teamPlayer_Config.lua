@@ -1,0 +1,36 @@
+﻿--设置component
+AddLocaleLang({
+	teamPlayer_0=[[刷新列表]];
+	teamPlayer_1=[[首页]];
+	teamPlayer_2=[[尾页]];
+	teamPlayer_3=[[搜索未组队的玩家]];
+	teamPlayer_4=[[玩家名称]];
+	teamPlayer_5=[[等级]];
+	teamPlayer_6=[[职业]];
+	teamPlayer_7=[[世家]];
+	teamPlayer_8=[[配偶]];
+	teamPlayer_9=[[私聊]];
+	teamPlayer_10=[[查看]];
+	teamPlayer_11=[[交友]];
+	teamPlayer_12=[[交易]];
+	teamPlayer_13=[[组队]];
+	teamPlayer_14=[[世家邀请]];
+	teamPlayer_15=[[看摊]];
+	teamPlayer_16=[[求婚]];
+	teamPlayer_17=[[团练]];
+	teamPlayer_18=[[加入世家]];
+	teamPlayer_19=[[成就对比]];
+	teamPlayer_20=[[邀请]];
+	teamPlayer_21=[[搜 索]];
+	teamPlayer_22=[[搜索未组队的玩家]];
+	teamPlayer_23=[[[只显示当前地图中的队伍] ]];
+	teamPlayer_24=[[首 页]];
+	teamPlayer_25=[[尾 页]];
+	teamPlayer_26=[[刷新列表]];
+	teamPlayer_27=[[玩家名称]];
+	teamPlayer_28=[[等级]];
+	teamPlayer_29=[[世家]];
+	teamPlayer_30=[[配偶]];
+	teamPlayer_31=[[职业]];
+	teamPlayer_32=[[操作]];
+});

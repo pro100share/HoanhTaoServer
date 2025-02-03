@@ -1,0 +1,25 @@
+
+
+local function func(objPlayer,tbInfoList,isNewRole)
+	--print("KungFuSystem RecvData begin")
+	local dwAccountID = objPlayer:GetAccountID();
+	local dwRoleID = objPlayer:GetRoleID();
+	
+	local tabData = {};
+	local dbres = tbInfoList[1]--objPlayer:GetDBQuery():execute('select * from "T_Role_KungFu_Info" where "dwRoleID" = $1 LIMIT 1', dwRoleID);
+    if #(dbres) > 0 then
+		local Row = dbres[1];
+		tabData[1] = Row.s_StudyProcess;
+		--print("KungFuSystem get data form DB, the data is "..tabData[1]);
+    end
+    
+	CTransitManager:RecvData(dwAccountID,"CKungFuSystem", tabData);
+	--print("KungFuSystem RecvData end")
+	return true;
+end
+
+
+CLoginCall:AddCall("CKungFuSystem", func);
+
+
+

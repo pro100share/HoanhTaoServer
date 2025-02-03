@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	MsgBox_0=[[确定]];
+	MsgBox_1=[[15级前原地复活免费]];
+	MsgBox_2=[[取消]];
+	MsgBox_3=[[你确定要删除此物品吗？]];
+	MsgBox_4=[[确定]];
+	MsgBox_5=[[取消]];
+});

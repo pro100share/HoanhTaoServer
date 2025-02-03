@@ -1,0 +1,49 @@
+﻿--单个npc对话:npc_10021086.lua
+local npc_id=10021086
+local talk=
+{
+ [1]=
+ {
+  [1]={tp=tk.text,text=1002108611,}, 
+  [2]={tp=tk.page,id=6,text=1002108625,},  
+  [3]={tp=tk.page,id=2,text=1002108612,},
+  [4]={tp=tk.page,id=3,text=1002108613,},
+  [5]={tp=tk.close,text=1,},
+ }, 
+	[2]=
+	{
+		[1]={tp=tk.text,text=1002108614,},
+		[2]={tp=tk.close,text=1002108615,},
+		[3]={tp=tk.close,text=1002108616,},
+		[4]={tp=tk.close,text=1002108617,},
+		[5]={tp=tk.close,text=1,},
+	},
+ [3]=
+	{
+	 [1]={tp=tk.text,text=1002108618,},
+	 [2]={tp=tk.page,id=4,text=1002108619,},
+	 [3]={tp=tk.page,id=5,text=1002108620,},	 
+	}, 
+	[4]=
+	{
+	 [1]={tp=tk.text,text=1002108621,},
+	 [2]={tp=tk.close,text=1002108622,},	 
+	},
+	[5]=
+	{
+	 [1]={tp=tk.text,text=1002108623,},
+	 [2]={tp=tk.close,text=1002108624,},	 
+	},	
+	[6]=
+	{
+	 [1]={tp=tk.text,text=1002108626,},
+	 [2]={tp=tk.close,text=1002108627,},	 
+	},		
+}
+CScriptManager:AddScript(ScriptTypeConfig.NpcTalk,npc_id,talk)
+--文件结束
+--[[
+说明：
+talk[1] : npc对话的入口，每次点击npc，弹出的都是这个对话
+			每个npc都有talk[1],其余可有可无;
+--]] 

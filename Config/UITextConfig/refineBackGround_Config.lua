@@ -1,0 +1,20 @@
+﻿--设置component
+AddLocaleLang({
+	refineBackGround_0=[[摆摊]];
+	refineBackGround_1=[[洗炼类型]];
+	refineBackGround_2=[[洗炼数值]];
+	refineBackGround_3=[[兵魂属性强化]];
+	refineBackGround_4=[[装备强化]];
+	refineBackGround_5=[[装备升阶]];
+	refineBackGround_6=[[洗炼品质]];
+	refineBackGround_7=[[本次操作使用]];
+	refineBackGround_8=[[本次操作使用]];
+	refineBackGround_9=[[自动购买所需材料]];
+	refineBackGround_10=[[优先使用非绑定材料]];
+	refineBackGround_11=[[消耗材料]];
+	refineBackGround_12=[[2倍]];
+	refineBackGround_13=[[2倍]];
+	refineBackGround_14=[[元宝：]];
+	refineBackGround_15=[[礼金：]];
+	refineBackGround_16=[[摆摊]];
+});

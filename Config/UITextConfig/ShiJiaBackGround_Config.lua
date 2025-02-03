@@ -1,0 +1,17 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaBackGround_0=[[龙鼎战]];
+	ShiJiaBackGround_1=[[世家列表]];
+	ShiJiaBackGround_2=[[世家战]];
+	ShiJiaBackGround_3=[[世家信息]];
+	ShiJiaBackGround_4=[[成员信息]];
+	ShiJiaBackGround_5=[[世家功能]];
+	ShiJiaBackGround_6=[[世家列表]];
+	ShiJiaBackGround_7=[[私聊]];
+	ShiJiaBackGround_8=[[查看]];
+	ShiJiaBackGround_9=[[交友]];
+	ShiJiaBackGround_10=[[组队]];
+	ShiJiaBackGround_11=[[看摊]];
+	ShiJiaBackGround_12=[[成就对比]];
+	ShiJiaBackGround_13=[[求婚]];
+});

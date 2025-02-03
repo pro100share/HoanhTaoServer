@@ -1,0 +1,37 @@
+﻿--设置component
+AddLocaleLang({
+	BaoJianShengJie_0=[[拥有元宝]];
+	BaoJianShengJie_1=[[成功率：]];
+	BaoJianShengJie_2=[[天官赐福值越高，升阶越容易]];
+	BaoJianShengJie_3=[[开始升阶]];
+	BaoJianShengJie_4=[[材料：]];
+	BaoJianShengJie_5=[[升阶玄晶]];
+	BaoJianShengJie_6=[[自动升阶]];
+	BaoJianShengJie_7=[[银两：]];
+	BaoJianShengJie_8=[[本次操作使用]];
+	BaoJianShengJie_9=[[本次操作使用]];
+	BaoJianShengJie_10=[[自动购买所需材料]];
+	BaoJianShengJie_11=[[优先使用非绑定材料]];
+	BaoJianShengJie_12=[[元宝：]];
+	BaoJianShengJie_13=[[消耗材料]];
+	BaoJianShengJie_14=[[关]];
+	BaoJianShengJie_15=[[2倍]];
+	BaoJianShengJie_16=[[礼金：]];
+	BaoJianShengJie_17=[[2倍]];
+	BaoJianShengJie_18=[[本次操作使用]];
+	BaoJianShengJie_19=[[本次操作使用]];
+	BaoJianShengJie_20=[[自动购买所需材料]];
+	BaoJianShengJie_21=[[优先使用非绑定材料]];
+	BaoJianShengJie_22=[[元宝：]];
+	BaoJianShengJie_23=[[消耗材料]];
+	BaoJianShengJie_24=[[关]];
+	BaoJianShengJie_25=[[礼金：]];
+	BaoJianShengJie_26=[[2倍]];
+	BaoJianShengJie_27=[[2倍]];
+	BaoJianShengJie_28=[[拥有元宝]];
+	BaoJianShengJie_29=[[升阶难度:]];
+	BaoJianShengJie_30=[[天官赐福值越高，升阶越容易]];
+	BaoJianShengJie_31=[[开始升阶]];
+	BaoJianShengJie_32=[[材料：]];
+	BaoJianShengJie_33=[[升阶玄晶]];
+});

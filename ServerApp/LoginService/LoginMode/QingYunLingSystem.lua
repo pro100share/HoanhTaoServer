@@ -1,0 +1,1 @@
+local dwSystemID = SystemNameToID.CQingYunLingSystem;local tbParam = {	{		Param = ParamType.dwRoleID;	};}local szSql1 = [[select "dwLotteryID", "dwTotalExp", "dwNum","dwCount" from "T_Role_QingYunLing" where "dwRoleID" = %s]];CLoginMode:AddMode(dwSystemID,szSql1,tbParam,1)

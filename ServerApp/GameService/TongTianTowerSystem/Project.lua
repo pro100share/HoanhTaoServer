@@ -1,0 +1,5 @@
+﻿dofile 'GameService/TongTianTowerSystem/TongTianTowerSystemMsg.lua'
+dofile 'GameService/TongTianTowerSystem/TongTianTowerSystem.lua'
+dofile 'GameService/TongTianTowerSystem/TongTianTowerSystemDB.lua'
+dofile 'GameService/TongTianTowerSystem/TongTianTowerInterface.lua'
+dofile 'GameService/TongTianTowerSystem/TongTianTowerChartMgr.lua'

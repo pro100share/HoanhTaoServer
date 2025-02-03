@@ -1,0 +1,30 @@
+﻿--设置component
+AddLocaleLang({
+	GodHorse_0=[[关]];
+	GodHorse_1=[[常用类]];
+	GodHorse_2=[[培养]];
+	GodHorse_3=[[坐骑升阶]];
+	GodHorse_4=[[未上榜]];
+	GodHorse_5=[[坐骑榜]];
+	GodHorse_6=[[展 示]];
+	GodHorse_7=[[排名:]];
+	GodHorse_8=[[拥有元宝]];
+	GodHorse_9=[[拥有元宝]];
+	GodHorse_10=[[拥有元宝]];
+	GodHorse_11=[[生命]];
+	GodHorse_12=[[内力]];
+	GodHorse_13=[[攻击]];
+	GodHorse_14=[[防御]];
+	GodHorse_15=[[暴击]];
+	GodHorse_16=[[身法]];
+	GodHorse_17=[[坐骑为您加成以下属性]];
+	GodHorse_18=[[提升]];
+	GodHorse_19=[[提升]];
+	GodHorse_20=[[提升]];
+	GodHorse_21=[[提升]];
+	GodHorse_22=[[攻击资质]];
+	GodHorse_23=[[防御资质]];
+	GodHorse_24=[[根骨资质]];
+	GodHorse_25=[[技巧资质]];
+	GodHorse_26=[[关]];
+});

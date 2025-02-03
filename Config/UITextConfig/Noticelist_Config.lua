@@ -1,0 +1,37 @@
+﻿--设置component
+AddLocaleLang({
+	Noticelist_0=[[击杀怪物:]];
+	Noticelist_1=[[击杀BOSS:]];
+	Noticelist_2=[[进入副本:]];
+	Noticelist_3=[[日环任务:]];
+	Noticelist_4=[[风云任务:]];
+	Noticelist_5=[[世家任务:]];
+	Noticelist_6=[[在线时间:]];
+	Noticelist_7=[[23小时59分59秒]];
+	Noticelist_8=[[威　望:]];
+	Noticelist_9=[[我还可以做什么？]];
+	Noticelist_10=[[获得真气]];
+	Noticelist_11=[[系统消息]];
+	Noticelist_12=[[收益信息]];
+	Noticelist_13=[[信息设置]];
+	Noticelist_14=[[死亡信息]];
+	Noticelist_33=[[喇叭消息]];
+	Noticelist_15=[[私聊]];
+	Noticelist_16=[[查看]];
+	Noticelist_17=[[交友]];
+	Noticelist_18=[[交易]];
+	Noticelist_19=[[组队]];
+	Noticelist_20=[[世家邀请]];
+	Noticelist_21=[[看摊]];
+	Noticelist_22=[[求婚]];
+	Noticelist_23=[[加入世家]];
+	Noticelist_24=[[成就对比]];
+	Noticelist_25=[[双修]];
+	Noticelist_26=[[人物经验]];
+	Noticelist_27=[[坐骑经验]];
+	Noticelist_28=[[实战经验]];
+	Noticelist_29=[[获得物品]];
+	Noticelist_30=[[获得银两]];
+	Noticelist_31=[[设置以下类型信息在屏幕左下角显示]];
+	Noticelist_32=[[获得剑气]];
+});

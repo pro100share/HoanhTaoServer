@@ -1,0 +1,29 @@
+﻿--设置component
+AddLocaleLang({
+	daditu_0=[[当前地图]];
+	daditu_1=[[世界地图]];
+	daditu_2=[[关闭]];
+	daditu_3=[[VIP传送]];
+	daditu_4=[[恶人谷]];
+	daditu_5=[[白驼山]];
+	daditu_6=[[大理]];
+	daditu_7=[[绝情密涧]];
+	daditu_8=[[终南山]];
+	daditu_9=[[华山]];
+	daditu_10=[[曲幽村]];
+	daditu_11=[[丐帮竹林]];
+	daditu_12=[[嵩山少林]];
+	daditu_13=[[襄阳城]];
+	daditu_14=[[襄阳野郊]];
+	daditu_15=[[桃花岛]];
+	daditu_16=[[点击城市按钮,进行VIP传送]];
+	daditu_17=[[功能NPC]];
+	daditu_18=[[前 往]];
+	daditu_19=[[地图中显示]];
+	daditu_20=[[怪物]];
+	daditu_21=[[功能NPC]];
+	daditu_22=[[地图中显示]];
+	daditu_23=[[传送点]];
+	daditu_24=[[功能NPC]];
+	daditu_25=[[地图中显示]];
+});

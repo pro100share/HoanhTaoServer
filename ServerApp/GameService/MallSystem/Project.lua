@@ -1,0 +1,8 @@
+﻿dofile 'GameService/MallSystem/CSVClass.lua'
+dofile 'GameService/MallSystem/ReadCSV.lua'
+dofile 'GameService/MallSystem/WriteCSV.lua'
+dofile 'GameService/MallSystem/CSV.lua'
+dofile 'GameService/MallSystem/MallSystem.lua' 
+dofile 'GameService/MallSystem/MallSystemMsg.lua' 
+dofile 'GameService/MallSystem/MallManager.lua' 
+dofile 'GameService/MallSystem/Interface.lua'

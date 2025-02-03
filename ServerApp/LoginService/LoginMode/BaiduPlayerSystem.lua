@@ -1,0 +1,1 @@
+local dwSystemID = SystemNameToID.CBaiduPlayerSystem;local szSql = [[select * from "T_Role_BaiduPlayer" where "dwRoleID" = %s]];local tbParam = {	{		Param = ParamType.dwRoleID;	};}CLoginMode:AddMode(dwSystemID,szSql,tbParam,1)

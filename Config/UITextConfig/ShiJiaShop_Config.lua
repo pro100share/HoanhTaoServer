@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaShop_0=[[世家称谓:]];
+	ShiJiaShop_1=[[库存数量:]];
+	ShiJiaShop_2=[[消耗贡献:]];
+	ShiJiaShop_3=[[兑换]];
+	ShiJiaShop_4=[[图腾等级:]];
+	ShiJiaShop_5=[[拥有贡献度：]];
+	ShiJiaShop_6=[[每日23:50分刷新商品信息]];
+});

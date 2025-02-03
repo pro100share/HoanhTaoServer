@@ -1,0 +1,12 @@
+﻿--设置component
+AddLocaleLang({
+	BaoShiXiangQian_0=[[已镶嵌（1/5）]];
+	BaoShiXiangQian_1=[[镶嵌总属性:]];
+	BaoShiXiangQian_2=[[宝石总品级:]];
+	BaoShiXiangQian_3=[[拥有元宝]];
+	BaoShiXiangQian_4=[[拥有元宝]];
+	BaoShiXiangQian_5=[[拥有元宝]];
+	BaoShiXiangQian_6=[[拥有元宝]];
+	BaoShiXiangQian_7=[[拥有元宝]];
+	BaoShiXiangQian_8=[[攻击速度]];
+});

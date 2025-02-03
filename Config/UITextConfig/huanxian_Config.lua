@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	huanxian_0=[[二线]];
+	huanxian_1=[[三线]];
+	huanxian_2=[[四线]];
+	huanxian_3=[[五线]];
+	huanxian_4=[[六线]];
+	huanxian_5=[[一线]];
+});

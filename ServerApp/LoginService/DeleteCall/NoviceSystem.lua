@@ -1,0 +1,1 @@
+local strCmd = 'delete from "T_Role_NoviceGuide_New" where "dwRoleID" = $1';local function func(dwRoleID)    CPlayerDBQuery:execute(strCmd, dwRoleID);end;CDeleteCall:AddCall(func)

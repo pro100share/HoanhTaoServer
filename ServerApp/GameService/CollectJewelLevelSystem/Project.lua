@@ -1,0 +1,4 @@
+
+dofile 'GameService/CollectJewelLevelSystem/CollectJewelLevelSystem.lua'
+dofile 'GameService/CollectJewelLevelSystem/CollectJewelLevelSystemDB.lua'
+dofile 'GameService/CollectJewelLevelSystem/CollectJewelLevelSystemMsg.lua'

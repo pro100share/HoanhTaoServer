@@ -1,0 +1,1 @@
+dofile "../Config/BattleScoreUpConfig/BattleScoreUpConfig.lua"

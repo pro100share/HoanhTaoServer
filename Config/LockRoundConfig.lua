@@ -1,0 +1,1 @@
+﻿--玩家选中目标的光圈_G.LockRoundConfig = {	--不能攻击时的圈	friend = 5,	--可以攻击时的圈	enemy = 3,		--不同人的光圈缩放	[enProfType.eProfType_Sickle] = 1,	[enProfType.eProfType_Knife] = 1,	[enProfType.eProfType_Sword] = 1,	[enProfType.eProfType_Spear] = 1,};

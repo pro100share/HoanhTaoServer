@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	OneKeyCompleteWeekly_0=[[确定]];
+	OneKeyCompleteWeekly_1=[[取消]];
+	OneKeyCompleteWeekly_2=[[一键完成本环风云任务需消耗5个恩仇令]];
+	OneKeyCompleteWeekly_3=[[恩仇令]];
+	OneKeyCompleteWeekly_4=[[获得途径：]];
+	OneKeyCompleteWeekly_5=[[一键完成后将自动接取下一环风云任务]];
+});

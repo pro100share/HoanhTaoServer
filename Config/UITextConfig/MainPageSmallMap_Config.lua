@@ -1,0 +1,13 @@
+﻿--设置component
+AddLocaleLang({
+	MainPageSmallMap_0=[[一线]];
+	MainPageSmallMap_1=[[征服]];
+	MainPageSmallMap_2=[[信息]];
+	MainPageSmallMap_3=[[排行]];
+	MainPageSmallMap_4=[[二线]];
+	MainPageSmallMap_5=[[三线]];
+	MainPageSmallMap_6=[[四线]];
+	MainPageSmallMap_7=[[五线]];
+	MainPageSmallMap_8=[[六线]];
+	MainPageSmallMap_9=[[一线]];
+});

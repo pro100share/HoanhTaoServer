@@ -1,0 +1,23 @@
+﻿--设置component
+AddLocaleLang({
+	rankingMain_0=[[摆摊]];
+	rankingMain_1=[[当前暂无玩家上榜]];
+	rankingMain_2=[[排名]];
+	rankingMain_3=[[玩家名称]];
+	rankingMain_4=[[排名]];
+	rankingMain_5=[[排行管理]];
+	rankingMain_6=[[首页]];
+	rankingMain_7=[[尾页]];
+	rankingMain_8=[[私聊]];
+	rankingMain_9=[[交友]];
+	rankingMain_10=[[组队]];
+	rankingMain_11=[[世家邀请]];
+	rankingMain_12=[[求婚]];
+	rankingMain_13=[[成就PK]];
+	rankingMain_14=[[查看]];
+	rankingMain_15=[[阶段1]];
+	rankingMain_16=[[阶段1]];
+	rankingMain_17=[[在主操作界面同时显示任务追踪界面]];
+	rankingMain_18=[[一键勾选]];
+	rankingMain_19=[[ [999区]金营极品装备]];
+});

@@ -1,0 +1,14 @@
+﻿--设置component
+AddLocaleLang({
+	guaji_jianjie_0=[[摆摊]];
+	guaji_jianjie_1=[[停止战斗]];
+	guaji_jianjie_2=[[开始自动战斗后，您将会：]];
+	guaji_jianjie_3=[[自动战斗快捷键：H]];
+	guaji_jianjie_4=[[开始战斗]];
+	guaji_jianjie_5=[[高级设置]];
+	guaji_jianjie_6=[[1、在附近自动寻找怪物，并自动攻击]];
+	guaji_jianjie_7=[[2、智能使用各类药品]];
+	guaji_jianjie_8=[[3、智能使用各类技能]];
+	guaji_jianjie_9=[[4、智能拾取物品]];
+	guaji_jianjie_10=[[5、智能进行组队与复活]];
+});

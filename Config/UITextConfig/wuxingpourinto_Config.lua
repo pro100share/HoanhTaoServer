@@ -1,0 +1,21 @@
+﻿--设置component
+AddLocaleLang({
+	wuxingpourinto_0=[[摆摊]];
+	wuxingpourinto_1=[[消耗道具]];
+	wuxingpourinto_2=[[预览]];
+	wuxingpourinto_3=[[五气囊可以储存真气：]];
+	wuxingpourinto_4=[[您拥有金真气：]];
+	wuxingpourinto_5=[[金]];
+	wuxingpourinto_6=[[木]];
+	wuxingpourinto_7=[[水]];
+	wuxingpourinto_8=[[火]];
+	wuxingpourinto_9=[[土]];
+	wuxingpourinto_10=[[2倍]];
+	wuxingpourinto_11=[[2倍]];
+	wuxingpourinto_12=[[2倍]];
+	wuxingpourinto_13=[[2倍]];
+	wuxingpourinto_14=[[2倍]];
+	wuxingpourinto_15=[[开始灌注]];
+	wuxingpourinto_16=[[金真气不足，无法灌注]];
+	wuxingpourinto_17=[[您丹田中必须有5000金真气才可以开始灌注。]];
+});

@@ -1,0 +1,21 @@
+﻿--设置component
+AddLocaleLang({
+	JingMaiMain_0=[[未打通]];
+	JingMaiMain_1=[[可开通]];
+	JingMaiMain_2=[[2倍]];
+	JingMaiMain_3=[[本命经脉能力]];
+	JingMaiMain_4=[[今日剩余经验分享：]];
+	JingMaiMain_5=[[查看属性]];
+	JingMaiMain_6=[[温馨提示：]];
+	JingMaiMain_7=[[点击对应穴位即可提升经脉层数]];
+	JingMaiMain_8=[[经脉进度：]];
+	JingMaiMain_9=[[拥有元宝]];
+	JingMaiMain_10=[[修炼经脉属性加成：]];
+	JingMaiMain_11=[[攻击：]];
+	JingMaiMain_12=[[身法：]];
+	JingMaiMain_13=[[生命：]];
+	JingMaiMain_14=[[防御：]];
+	JingMaiMain_15=[[暴击：]];
+	JingMaiMain_16=[[内力：]];
+	JingMaiMain_17=[[闪避率：]];
+});

@@ -1,0 +1,1 @@
+dofile "KernelService/OnlineAwardsSystem/OnlineAwardsMrg.lua"

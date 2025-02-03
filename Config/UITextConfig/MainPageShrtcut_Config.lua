@@ -1,0 +1,23 @@
+﻿--设置component
+AddLocaleLang({
+	MainPageShrtcut_0=[[坐骑]];
+	MainPageShrtcut_1=[[打坐]];
+	MainPageShrtcut_2=[[闭关]];
+	MainPageShrtcut_3=[[收放]];
+	MainPageShrtcut_4=[[调和]];
+	MainPageShrtcut_5=[[拥有元宝]];
+	MainPageShrtcut_6=[[开始升阶]];
+	MainPageShrtcut_7=[[甲]];
+	MainPageShrtcut_8=[[强化]];
+	MainPageShrtcut_9=[[炼制]];
+	MainPageShrtcut_10=[[好友]];
+	MainPageShrtcut_11=[[坐骑]];
+	MainPageShrtcut_12=[[帮会]];
+	MainPageShrtcut_13=[[挂机]];
+	MainPageShrtcut_14=[[武功]];
+	MainPageShrtcut_15=[[包裹]];
+	MainPageShrtcut_16=[[人物]];
+	MainPageShrtcut_17=[[队伍]];
+	MainPageShrtcut_18=[[好友]];
+	MainPageShrtcut_19=[[好友]];
+});

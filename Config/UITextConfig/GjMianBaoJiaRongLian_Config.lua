@@ -1,0 +1,11 @@
+﻿--设置component
+AddLocaleLang({
+	GjMianBaoJiaRongLian_0=[[所有职业]];
+	GjMianBaoJiaRongLian_1=[[其他职业]];
+	GjMianBaoJiaRongLian_2=[[本职业装备]];
+	GjMianBaoJiaRongLian_3=[[2倍]];
+	GjMianBaoJiaRongLian_4=[[2倍]];
+	GjMianBaoJiaRongLian_5=[[保存设置]];
+	GjMianBaoJiaRongLian_6=[[摆摊]];
+	GjMianBaoJiaRongLian_7=[[2倍]];
+});

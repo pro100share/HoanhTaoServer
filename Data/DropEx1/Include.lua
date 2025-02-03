@@ -1,0 +1,1 @@
+local szPath = "../Data/DropEx/"dofile(szPath..'DropEx.lua')dofile(szPath..'DropConfigEx.lua')

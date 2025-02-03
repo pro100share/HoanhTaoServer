@@ -1,0 +1,20 @@
+cd /home/s1/ServerApp
+./fancy-server -c  gs 1  &
+
+sleep 3
+
+cd /home/s1/ServerApp
+./fancy-server -c  gs 2  &
+
+sleep 3
+
+
+cd /home/s1/ServerApp
+./fancy-server -c  ws 3  &
+
+sleep 3
+
+cd /home/s1/ServerApp
+./fancy-server -c  dus 4  &
+
+sleep 3

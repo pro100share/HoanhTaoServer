@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	HDFuBenHuoDong_0=[[首页]];
+	HDFuBenHuoDong_1=[[尾页]];
+	HDFuBenHuoDong_2=[[成长目标]];
+	HDFuBenHuoDong_3=[[进入副本]];
+	HDFuBenHuoDong_4=[[活动收益]];
+	HDFuBenHuoDong_5=[[活动时间]];
+	HDFuBenHuoDong_6=[[参与活动]];
+});

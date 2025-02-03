@@ -1,0 +1,13 @@
+local strPath = AccountService.strWorkDir .. "../data/";
+dofile(strPath .. "BournConfig.lua");
+dofile(strPath .. "ItemEquipAppendConfig.lua");
+dofile(strPath .. "ItemEquipConfig.lua");
+dofile(strPath .. "ItemOtherConfig.lua");
+dofile(strPath .. "MapConfig.lua");
+dofile(strPath .. "RoleUpLevelConfig.lua");
+dofile(strPath .. "SkillConfig.lua");
+dofile(strPath .. "SkillStringConfig.lua");
+dofile(strPath .. "MallConfig.lua");
+dofile(strPath .. "MountConfig.lua");
+dofile(strPath .. "ItemAmuletConfig.lua");
+dofile(strPath .. "SwordConfig.lua");

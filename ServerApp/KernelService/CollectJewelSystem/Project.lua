@@ -1,0 +1,1 @@
+dofile "KernelService/CollectJewelSystem/CollectJewelMgr.lua"

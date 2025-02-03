@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaMengZhuZhan_0=[[关]];
+	ShiJiaMengZhuZhan_1=[[盟主战]];
+	ShiJiaMengZhuZhan_2=[[龙鼎战]];
+	ShiJiaMengZhuZhan_3=[[世家功能]];
+	ShiJiaMengZhuZhan_4=[[经验奖励：]];
+	ShiJiaMengZhuZhan_5=[[五行真气：]];
+	ShiJiaMengZhuZhan_6=[[领取]];
+});

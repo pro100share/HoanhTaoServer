@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	rankview_0=[[私聊]];
+	rankview_1=[[交友]];
+	rankview_2=[[组队]];
+	rankview_3=[[帮邀]];
+	rankview_4=[[求婚]];
+	rankview_5=[[成就PK]];
+});

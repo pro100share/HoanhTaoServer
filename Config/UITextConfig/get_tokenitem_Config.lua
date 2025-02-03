@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	get_tokenitem_0=[[取回1/2信物]];
+	get_tokenitem_1="[分手一样是朋友]";
+	get_tokenitem_2=[[您的夫妻关系已经解除]];
+	get_tokenitem_3=[[恭喜您重新获得了自由身]];
+	get_tokenitem_4=[[现在开始去寻找一份新的幸福吧]];
+	get_tokenitem_5=[[在这之前您可以取回一半的信物作纪念]];
+	get_tokenitem_6=[[如果您无法释怀，不妨在取回后销毁]];
+});

@@ -1,0 +1,13 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaZhanEntry_0=[[进入世家战]];
+	ShiJiaZhanEntry_1=[[横扫天下]];
+	ShiJiaZhanEntry_2=[[千军万马]];
+	ShiJiaZhanEntry_3=[[横扫天下]];
+	ShiJiaZhanEntry_4=[[横扫天下]];
+	ShiJiaZhanEntry_5=[[横扫天下]];
+	ShiJiaZhanEntry_6=[[横扫天下]];
+	ShiJiaZhanEntry_7=[[横扫天下]];
+	ShiJiaZhanEntry_8=[[横扫天下]];
+	ShiJiaZhanEntry_9=[[横扫天下]];
+});

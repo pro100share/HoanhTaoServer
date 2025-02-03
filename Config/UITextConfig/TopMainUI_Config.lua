@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	TopMainUI_0=[[活动]];
+	TopMainUI_1=[[首充]];
+	TopMainUI_2=[[成长目标]];
+	TopMainUI_3=[[点击领取]];
+	TopMainUI_4=[[点击领取]];
+	TopMainUI_5=[[领取奖励]];
+	TopMainUI_6=[[点击领取]];
+});

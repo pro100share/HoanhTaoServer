@@ -1,0 +1,28 @@
+
+
+cd /home/s1/ServerApp
+./fancy-server -c  ls 1 &
+
+sleep 3
+
+cd /home/s1/ServerApp
+./fancy-server -c  ks 1  &
+
+sleep 3
+
+cd /home/s1/ServerApp
+./fancy-server -c  ps 1  &
+
+sleep 3
+
+cd /home/s1/ServerApp
+./fancy-server -c  ds 1  &
+
+sleep 3
+
+cd /home/s1/ServerApp
+./fancy-server -c  lis 1  &
+
+sleep 3
+
+

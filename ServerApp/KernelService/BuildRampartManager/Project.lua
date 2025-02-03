@@ -1,0 +1,1 @@
+dofile "KernelService/BuildRampartManager/BuildRampartMgr.lua"dofile "KernelService/BuildRampartManager/BuildRampartMgrMsg.lua"

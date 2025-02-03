@@ -1,0 +1,25 @@
+﻿local dwItemId = 9407000
+local ItemScriptObj = {};
+setmetatable(ItemScriptObj, {__index = CItemScript});
+
+--使用物品
+function ItemScriptObj:OnUseItem(objItemSys, objItem)
+	local articleID = 90006;
+	local objPlayer = objItemSys:GetPlayer()
+	local sysMount = objPlayer:GetSystem("CMountSystem");
+	local isOK, _ = sysMount:AddMountByID(articleID,1) ;
+	if not isOK then
+		return 7000110046;
+	end
+end
+
+-------------------------------------------------------
+CGlobalItemManager:AddScript( dwItemId, ItemScriptObj )
+
+
+
+
+
+
+
+ 

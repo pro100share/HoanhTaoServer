@@ -1,0 +1,11 @@
+﻿--设置component
+AddLocaleLang({
+	fubenNewMain_0=[[摆摊]];
+	fubenNewMain_1=[[开创副本]];
+	fubenNewMain_2=[[催队长快来]];
+	fubenNewMain_3=[[离开副本超过五分钟时，将视为自动放弃副本]];
+	fubenNewMain_4=[[进入副本]];
+	fubenNewMain_5=[[小有成就]];
+	fubenNewMain_6=[[大起大落]];
+	fubenNewMain_7=[[拥有元宝]];
+});

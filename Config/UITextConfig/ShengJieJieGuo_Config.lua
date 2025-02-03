@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	ShengJieJieGuo_0=[[战斗力提升至：]];
+	ShengJieJieGuo_1=[[未上榜]];
+	ShengJieJieGuo_2=[[基础属性]];
+	ShengJieJieGuo_3=[[附加属性]];
+	ShengJieJieGuo_4=[[强化失败会降至10星]];
+	ShengJieJieGuo_5=[[下阶装备预览]];
+});

@@ -1,0 +1,16 @@
+﻿--设置component
+AddLocaleLang({
+	ShiJiaShenQing_0=[[摆摊]];
+	ShiJiaShenQing_1=[[世家活跃：]];
+	ShiJiaShenQing_2=[[世家名称：]];
+	ShiJiaShenQing_3=[[8级]];
+	ShiJiaShenQing_4=[[创建日期：]];
+	ShiJiaShenQing_5=[[8级]];
+	ShiJiaShenQing_6=[[家主名称：]];
+	ShiJiaShenQing_7=[[8级]];
+	ShiJiaShenQing_8=[[成员人数：]];
+	ShiJiaShenQing_9=[[8级]];
+	ShiJiaShenQing_10=[[世家等级：]];
+	ShiJiaShenQing_11=[[世家排名：]];
+	ShiJiaShenQing_12=[[申请加入]];
+});

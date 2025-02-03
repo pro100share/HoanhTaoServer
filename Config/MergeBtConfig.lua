@@ -1,0 +1,56 @@
+-- [[
+	-- 界面按钮合并配置
+	-- 时间：2013-12-11
+-- ]]
+
+--{[按钮类型]:{[合并按钮索引]=按钮名称}}
+_G.MainTopBtMergeConfig = {
+	[1] = {
+		[1] = "JuLingZhu",
+		[2] = "HuoDongBtn5",
+		[2] = "DailyBtn",
+		[3] = "GrowupBtn",
+		[4] = "ShiJiaZhanBtn",
+		[5] = "YaoJiangBtn",
+		[6] = "FuBenBtn",
+		[7] = "qihunbutn",
+		[8] = "HSLJBtn",
+		[9] = "DayBtn",
+		[10] = "HuoDongBtn2",
+		[11] = "HuoDongBtn1",
+		[12] = "HuoDongBtn4",
+		[13] = "zaixianbutn",
+		[14] = "ZhenLongBtn",
+		[15] = "HuoDongBtn3",
+		[16] = "HuoDongBtn6",
+		[17] = "tequanlibaobtn",
+		[18] = "tequanlibaobtn1",
+		[19] = "ChouQian_button",
+		[20] = "QianDaoGZ_button",
+		[21] = "DengLuLJ_button",
+		[22] = "ShouChongBtn",
+		[23] = "lianyunbutn",
+		[24] = "LevelGet",
+		[25] = "tequanlibaobtn3",
+		[26] = "tequanbtn1",
+		[27] = "hongzuan",
+		[28] = "DaTiBtn",
+		[29] = "ChengQiangbth",
+		[30] = "baiduyingyin_button",
+		[31] = "QunXiaBtn",
+		[32] = "tequanlibaobtn2",
+		[33] = "Btn5Dyaojiang",
+		[34] = "JiaSuQiu_button",
+		[35] = "ShowBtn",
+		[36] = "qunxialu",
+		[37] = "KuaFuBtn",
+		[38] = "datinglibaobutn",
+		[39] = "FashionBtn",
+		[40] = "tongtianta_butn",
+		[41] = "huashanlunjian_btn",
+		[42] = "yingxiongling_butn",
+		[43] = "ziyuanhuishou_butn",	
+		[44] = "HuoDongBtn8",
+		[45] = "HuoDongBtn9",		
+	};
+};

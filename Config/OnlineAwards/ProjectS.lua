@@ -1,0 +1,1 @@
+dofile "../Config/OnlineAwards/OnlineAwardsConfig.lua"

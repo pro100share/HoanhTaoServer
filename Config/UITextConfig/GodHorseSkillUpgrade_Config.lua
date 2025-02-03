@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	GodHorseSkillUpgrade_0=[[升级需求]];
+	GodHorseSkillUpgrade_1=[[需求坐骑：]];
+	GodHorseSkillUpgrade_2=[[坐骑等级：]];
+	GodHorseSkillUpgrade_3=[[升级消耗]];
+	GodHorseSkillUpgrade_4=[[人物经验：]];
+	GodHorseSkillUpgrade_5=[[需求银两：]];
+	GodHorseSkillUpgrade_6=[[五行真气：]];
+});

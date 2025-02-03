@@ -1,0 +1,38 @@
+﻿--设置component
+AddLocaleLang({
+	haoyoupingtai_0=[[征友]];
+	haoyoupingtai_1=[[征婚]];
+	haoyoupingtai_2=[[同仇]];
+	haoyoupingtai_3=[[发布征婚]];
+	haoyoupingtai_4=[[更多推荐]];
+	haoyoupingtai_5=[[一键添加]];
+	haoyoupingtai_6=[[打 探]];
+	haoyoupingtai_7=[[【999区】康兴你妹妹啊]];
+	haoyoupingtai_8=[[100级]];
+	haoyoupingtai_9=[[私聊]];
+	haoyoupingtai_10=[[查看]];
+	haoyoupingtai_11=[[交友]];
+	haoyoupingtai_12=[[交易]];
+	haoyoupingtai_13=[[组队]];
+	haoyoupingtai_14=[[世家邀请]];
+	haoyoupingtai_15=[[看摊]];
+	haoyoupingtai_16=[[求婚]];
+	haoyoupingtai_17=[[加入世家]];
+	haoyoupingtai_18=[[成就对比]];
+	haoyoupingtai_19=[[双修]];
+	haoyoupingtai_20=[[玩家姓名]];
+	haoyoupingtai_21=[[TA的仇人]];
+	haoyoupingtai_22=[[共同仇人]];
+	haoyoupingtai_23=[[玩家名称]];
+	haoyoupingtai_24=[[等级]];
+	haoyoupingtai_25=[[【999区】康兴你妹妹啊]];
+	haoyoupingtai_26=[[你们有999个共同仇人]];
+	haoyoupingtai_27=[[征婚信息：求交往求包养求暖被窝]];
+	haoyoupingtai_28=[[交 互]];
+	haoyoupingtai_29=[[查 看]];
+	haoyoupingtai_30=[[交 友]];
+	haoyoupingtai_31=[[求 婚]];
+	haoyoupingtai_32=[[TA的仇人]];
+	haoyoupingtai_33=[[职业：]];
+	haoyoupingtai_34=[[玩家姓名]];
+});

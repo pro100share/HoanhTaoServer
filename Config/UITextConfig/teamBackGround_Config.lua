@@ -1,0 +1,14 @@
+﻿--设置component
+AddLocaleLang({
+	teamBackGround_0=[[附近队伍]];
+	teamBackGround_1=[[我的队伍]];
+	teamBackGround_2=[[附近玩家]];
+	teamBackGround_3=[[首页]];
+	teamBackGround_4=[[尾页]];
+	teamBackGround_5=[[刷新列表]];
+	teamBackGround_6=[[队长]];
+	teamBackGround_7=[[均级]];
+	teamBackGround_8=[[人数]];
+	teamBackGround_9=[[组队宣言]];
+	teamBackGround_10=[[申请]];
+});

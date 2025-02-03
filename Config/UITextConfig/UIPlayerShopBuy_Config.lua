@@ -1,0 +1,9 @@
+﻿--设置component
+AddLocaleLang({
+	UIPlayerShopBuy_0=[[购买]];
+	UIPlayerShopBuy_1=[[取消]];
+	UIPlayerShopBuy_2=[[护身保甲]];
+	UIPlayerShopBuy_3=[[数量：]];
+	UIPlayerShopBuy_4=[[银两：]];
+	UIPlayerShopBuy_5=[[元宝：]];
+});

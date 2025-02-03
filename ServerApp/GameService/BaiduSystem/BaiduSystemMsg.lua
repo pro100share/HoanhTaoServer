@@ -1,0 +1,1 @@
+define.OnGetBaiduPrizeMsg{	user = NONE;	Type = 0;}when{user = NONE}OnGetBaiduPrizeMsg = checkUser;when{}function OnGetBaiduPrizeMsg(user,Type)	if not user then		return;	end		local objBaiduSys = user:GetSystem("CBaiduSystem");	if objBaiduSys then		objBaiduSys:GetPrize(Type);	endend;

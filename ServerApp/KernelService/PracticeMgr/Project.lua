@@ -1,0 +1,1 @@
+dofile "KernelService/PracticeMgr/PracticeMgr.lua"

@@ -1,0 +1,27 @@
+﻿--设置component
+AddLocaleLang({
+	propose_panel_0=[[昵称：]];
+	propose_panel_1=[[等级：]];
+	propose_panel_2=[[世家：]];
+	propose_panel_3=[[职业：]];
+	propose_panel_4=[[请问您是想向TA求婚吗？]];
+	propose_panel_5=[[您需要先拥有一个婚姻信物以明心意]];
+	propose_panel_6=[[婚姻信物]];
+	propose_panel_7=[[信物能力]];
+	propose_panel_8=[[佩戴效果]];
+	propose_panel_9=[[查看资料]];
+	propose_panel_10=[[求 婚]];
+	propose_panel_11=[[购买信物]];
+	propose_panel_12=[[昵称：]];
+	propose_panel_13=[[等级：]];
+	propose_panel_14=[[帮派：]];
+	propose_panel_15=[[职业：]];
+	propose_panel_16=[[请问您是想向TA求婚吗？]];
+	propose_panel_17=[[您需要先拥有一个婚姻信物以明心意]];
+	propose_panel_18=[[婚姻信物]];
+	propose_panel_19=[[信物能力]];
+	propose_panel_20=[[佩戴效果]];
+	propose_panel_21=[[查看资料]];
+	propose_panel_22=[[求婚]];
+	propose_panel_23=[[购买信物]];
+});

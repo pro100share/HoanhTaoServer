@@ -1,0 +1,13 @@
+﻿--设置component
+AddLocaleLang({
+	ShengJieMain_0=[[开始升阶]];
+	ShengJieMain_1=[[成功率：]];
+	ShengJieMain_2=[[一般]];
+	ShengJieMain_3=[[消耗材料:]];
+	ShengJieMain_4=[[神龙果]];
+	ShengJieMain_5=[[消耗材料:]];
+	ShengJieMain_6=[[为我自动强化至]];
+	ShengJieMain_7=[[VIP特权(开通VIP自动强化)]];
+	ShengJieMain_8=[[拥有元宝]];
+	ShengJieMain_9=[[天官赐福值越高，升阶越容易]];
+});

@@ -1,0 +1,21 @@
+﻿--设置component
+AddLocaleLang({
+	MianBaoJiaRongLian_0=[[一键放入]];
+	MianBaoJiaRongLian_1=[[开始熔炼]];
+	MianBaoJiaRongLian_2=[[熔炼设置]];
+	MianBaoJiaRongLian_3=[[所有职业]];
+	MianBaoJiaRongLian_4=[[其他职业]];
+	MianBaoJiaRongLian_5=[[本职业装备]];
+	MianBaoJiaRongLian_6=[[2倍]];
+	MianBaoJiaRongLian_7=[[2倍]];
+	MianBaoJiaRongLian_8=[[2倍]];
+	MianBaoJiaRongLian_9=[[保存设置]];
+	MianBaoJiaRongLian_10=[[摆摊]];
+	MianBaoJiaRongLian_11=[[所有职业]];
+	MianBaoJiaRongLian_12=[[其他职业]];
+	MianBaoJiaRongLian_13=[[本职业装备]];
+	MianBaoJiaRongLian_14=[[2倍]];
+	MianBaoJiaRongLian_15=[[2倍]];
+	MianBaoJiaRongLian_16=[[2倍]];
+	MianBaoJiaRongLian_17=[[保存设置]];
+});

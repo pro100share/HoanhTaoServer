@@ -1,0 +1,21 @@
+﻿--设置component
+AddLocaleLang({
+	CKJingMaiMain_0=[[未打通]];
+	CKJingMaiMain_1=[[可开通]];
+	CKJingMaiMain_2=[[2倍]];
+	CKJingMaiMain_3=[[本命经脉能力]];
+	CKJingMaiMain_4=[[今日剩余经验分享：]];
+	CKJingMaiMain_5=[[查看属性]];
+	CKJingMaiMain_6=[[温馨提示：]];
+	CKJingMaiMain_7=[[点击对应穴位即可提升经脉层数]];
+	CKJingMaiMain_8=[[经脉进度：]];
+	CKJingMaiMain_9=[[拥有元宝]];
+	CKJingMaiMain_10=[[修炼经脉属性加成：]];
+	CKJingMaiMain_11=[[攻击：]];
+	CKJingMaiMain_12=[[身法：]];
+	CKJingMaiMain_13=[[生命：]];
+	CKJingMaiMain_14=[[防御：]];
+	CKJingMaiMain_15=[[暴击：]];
+	CKJingMaiMain_16=[[内力：]];
+	CKJingMaiMain_17=[[闪避率：]];
+});

@@ -1,0 +1,5 @@
+﻿dofile 'GameService/ZhenlongChessSystem/ZhenlongChessSystemMsg.lua'
+dofile 'GameService/ZhenlongChessSystem/ZhenlongChessSystem.lua'
+dofile 'GameService/ZhenlongChessSystem/ZhenlongChessSystemDB.lua'
+dofile 'GameService/ZhenlongChessSystem/ScriptPort.lua'
+dofile 'GameService/ZhenlongChessSystem/ZhenlongChessChartMgr.lua'

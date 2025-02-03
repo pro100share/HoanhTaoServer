@@ -1,0 +1,10 @@
+﻿--设置component
+AddLocaleLang({
+	wuxingpickup_0=[[摆摊]];
+	wuxingpickup_1=[[消耗道具]];
+	wuxingpickup_2=[[消耗道具]];
+	wuxingpickup_3=[[您拥有金真气：]];
+	wuxingpickup_4=[[本次提取消耗]];
+	wuxingpickup_5=[[当前限制每天只能提取一次，不可重复提取。]];
+	wuxingpickup_6=[[开始提取]];
+});
